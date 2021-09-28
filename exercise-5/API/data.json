@@ -1,0 +1,95 @@
+ {
+     "data": [
+    {
+      "id":1,
+      "Img":"Capture",
+      "Title": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PS4, & Xbox - 1-Year Rescue Service (STGX2000400)",
+      "Producer": "Seagate",
+      "Rating": "4.5/5",
+      "Cost": "$62.99",
+      "shippingCost":" + $33.58 shipping",
+      "Arrival": "Arrives: Wednesday, Sep 22"
+    },
+    {
+      "id":2,
+      "Img":"Capture1",
+      "Title": "Roku Express 4K+ 2021 | Streaming Media Player HD/4K/HDR with Smooth Wireless Streaming and Roku Voice Remote with TV Controls, Includes Premium HDMI Cable",
+      "Producer": "Roku",
+      "Rating": "4.5/5",
+      "Cost": "$29.00",
+      "oldPrice":"$39.99",
+      "shippingCost":" + $33.70 shipping",
+      "Arrival": "Arrives: Thursday, Sep 23"
+    },
+    {
+      "id":3,
+      "Img":"Capture2",
+      "Title": "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Roku Voice Remote with TV Controls",
+      "Producer": "Roku",
+      "Rating": "4.5/5",
+      "Cost": "$49.00",
+      "shippingCost":" + $33.28 shipping",
+      "Arrival": "Arrives: Thursday, Sep 23"
+    },
+    {
+      "id":4,
+      "Img":"Capture3",
+      "Title": "Sceptre E248W-19203R 24: Ultra Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Metallic Black 2018",
+      "Producer": "Sceptre",
+      "Rating": "4.5/5",
+      "shippingCost":" + $90.99 shipping",
+      "Cost": "$137.98",
+      "Arrival": "Arrives: Friday, Sep 24"
+    },
+    {
+      "id":5,
+      "Img":"Capture4",
+      "Title": "iPhone Charger [Apple MFi Certified] QIRUOZ 5Pack(3/3/6/6/10FT) Compatible iPhone 12Pro Max/12Pro/12/11/Pro/Xs Max/X/8 and More-Silver&White",
+      "Producer": "QIRUOZ",
+      "Rating": "4.5/5",
+      "Cost": "$12.99",
+      "shippingCost":" + $32.11 shipping",
+      "Arrival": "Arrives: Thursday, Sep 23"
+    },
+    {
+      "id":6,
+      "Img":"Capture5",
+      "Title": "Logitech H390 Wired Headset, Stereo Headphones with Noise-Cancelling Microphone, USB, In-Line Controls, PC/Mac/Laptop - Black",
+      "Producer": "Logitech",
+      "Rating": "4.5/5",
+      "Cost": "unavailable"
+    },
+    {
+      "id":7,
+      "Img":"Capture6",
+      "Title": "SAMSUNG: EVO Select 128GB MicroSDXC UHS-I U3 100MB/s Full HD & 4K UHD Memory Card with Adapter (MB-ME128HA)",
+      "Producer": "SAMSUNG",
+      "Rating": "5/5",
+      "Cost": "$25.78",
+      "shippingCost":" + $30.18 shipping",
+      "Arrival": "Arrives: Thursday, Sep 23"
+    },
+    {
+      "id":8,
+      "Img":"Capture7",
+      "Title": "Roku Express | HD Streaming Media Player with High Speed HDMI Cable and Simple Remote",
+      "Producer": "Roku",
+      "Rating": "5/5",
+      "Cost": "$24.99",
+      "oldPrice":"$29.99",
+      "shippingCost":" + $42.88 shipping",
+      "Arrival": "Arrives: Thursday, Sep 23"
+    },
+    {
+      "id":9,
+      "Img":"Capture8",
+      "Title": "Logitech BRIO Ultra HD Webcam for Video Conferencing, Recording, and Streaming - Black",
+      "Producer": "Logitech",
+      "Rating": "4.5/5",
+      "Cost": "$164.95",
+      "oldPrice":"$199.99",
+      "shippingCost":" + $34.72 shipping",
+      "Arrival": "Arrives: Thursday, Sep 23"
+    }
+  ]
+}

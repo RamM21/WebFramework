@@ -1,0 +1,23 @@
+.header{
+    font-size: 0.70cm;
+    font-weight: 800;
+}
+.header_back{
+    background-color: lightseagreen;
+    align-items: center;
+    margin-left: 5cm;
+    margin-right: 6.20cm;
+    margin-top: 0.2cm;
+    margin-bottom: 2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    min-width: 762px;
+    max-width: 1110px;
+}
+.header_small{
+    font-size: 0.50cm;
+    font-weight: 700;
+    margin-left: 0.1cm;
+}

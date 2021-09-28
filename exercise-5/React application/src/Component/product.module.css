@@ -1,0 +1,20 @@
+.Box_Size{
+    width: 400px;
+}
+.Left_Margin{
+    margin-left: 5px;
+}
+.text_Bold{
+    font-weight: 800;
+}
+.old_Price{
+    font-size: small;
+    color: grey;
+    text-decoration: line-through;
+}
+.shipping_Size{
+    font-size: medium;
+}
+.price_Size{
+    font-size: larger;
+}

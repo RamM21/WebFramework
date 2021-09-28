@@ -1,0 +1,53 @@
+.header_back{
+    margin-left: 5px;
+    margin-top: 5px;
+    background-color: white;
+    box-sizing: border-box;
+    border: 0 solid;
+    display: block;
+    max-width: 300px;
+    min-width: 200px;
+    height: max-content;
+    
+}
+
+.header_head{
+    margin-left: 5px;
+    font-weight: 900;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border: 0 solid;
+    border-bottom-width: 1px;
+    display: flex;
+}
+.sidesect_line{
+    margin-left: 10px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    text-align: left;
+    display: flex;
+}
+
+.header_cont{
+    margin-left: 15px;
+    font-weight: 500;
+}
+.header_numb{
+    color: lightblue;
+    width: 20px;
+    height: 10px;
+    margin-right: 10px;
+}
+.header_categor{
+    
+    margin-right: 10px;
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    
+}
+.header_side{
+    
+    display: flex;
+    
+}

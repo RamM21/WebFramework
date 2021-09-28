@@ -1,0 +1,38 @@
+.header_back{
+    background-color: rgb(13, 13, 88);
+  }
+  .header_flex{
+    
+    display:  flex;
+    color: white;
+    height: 70px;
+    align-items: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .header{
+    display: flex;
+    align-items: center;
+  }
+  .header_oth{
+    display: flex;
+    align-items: center;
+    margin-left: 4cm;
+  }
+  .header_big{
+    font-size: 0.80cm;
+  }
+  .header_small{
+    font-size: 0.50;
+    margin-left: 1.50cm;
+    font-weight: bold;
+  }
+  .header_tilaa{
+    background-color: white;
+    color: black;
+    padding: 0.3cm;
+    border-radius: 2cm;
+    font-weight: bold;
+  }
+  
